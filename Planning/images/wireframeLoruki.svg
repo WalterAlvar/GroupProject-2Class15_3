@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="320.59835"
-     inkscape:cy="926.82269"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="115.38099"
+     inkscape:cy="710.90995"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1294"
@@ -48,9 +48,93 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline;opacity:1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583"
+       id="rect958"
+       width="0.021276018"
+       height="0.15292266"
+       x="3.7057586"
+       y="7.9275188" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.20202"
+       id="rect961"
+       width="207.73293"
+       height="291.98221"
+       x="0.51964909"
+       y="3.1167512" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.335347"
+       id="rect129"
+       width="209.92487"
+       height="291.98224"
+       x="0.51964909"
+       y="3.1167512" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.335347"
+       id="rect955"
+       width="209.92487"
+       height="291.98224"
+       x="0.51964909"
+       y="3.1167512" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.335347"
+       id="rect957"
+       width="209.92487"
+       height="291.98224"
+       x="0.51964909"
+       y="3.1167512" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.335347"
+       id="rect959"
+       width="209.92487"
+       height="291.98224"
+       x="0.51964909"
+       y="3.1167512" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.335347"
+       id="rect963"
+       width="209.92487"
+       height="291.98224"
+       x="0.51964909"
+       y="3.1167512" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.335347"
+       id="rect965"
+       width="209.92487"
+       height="291.98224"
+       x="0.51964909"
+       y="3.1167512" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.335347"
+       id="rect967"
+       width="209.92487"
+       height="291.98224"
+       x="0.51964909"
+       y="3.1167512" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.335347"
+       id="rect969"
+       width="209.92487"
+       height="291.98224"
+       x="0.51964909"
+       y="3.1167512" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.335347"
+       id="rect971"
+       width="209.92487"
+       height="291.98224"
+       x="0.51964909"
+       y="3.1167512" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <rect
        style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.201683"
        id="rect10"
@@ -88,7 +172,7 @@
        y="5.5463376" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.54195374;stroke:none;stroke-width:0.264583;"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.541954;stroke:none;stroke-width:0.264583"
        x="77.519608"
        y="19.043833"
        id="text847"><tspan
@@ -96,7 +180,7 @@
          id="tspan845"
          x="77.519608"
          y="19.043833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#000000;stroke-width:0.264583;fill-opacity:0.54195374;">navbar</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#000000;fill-opacity:0.541954;stroke-width:0.264583">navbar</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -160,7 +244,7 @@
          y="26.98134"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#800080;fill-opacity:0.519413;stroke-width:0.264583">showcase</tspan></text>
     <rect
-       style="fill:#ffffff;fill-opacity:0.38663059;stroke-width:0.501283"
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.501283"
        id="rect871"
        width="67.98381"
        height="36.372204"
@@ -168,7 +252,7 @@
        y="25.125507" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#800080;fill-opacity:0.75462359;stroke:none;stroke-width:0.264583;"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#800080;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
        x="143.13609"
        y="31.743843"
        id="text875"><tspan
@@ -176,7 +260,7 @@
          id="tspan873"
          x="143.13609"
          y="31.743843"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#800080;stroke-width:0.264583;fill-opacity:0.75462359;">submit form</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#800080;fill-opacity:0.754624;stroke-width:0.264583">submit form</tspan></text>
     <circle
        id="path877"
        style="fill:#800080;stroke:#000000;stroke-width:0.264583"
@@ -202,7 +286,7 @@
        d="m 131.32681,49.349551 h 51.69278 l -0.18668,-0.04582 -0.16058,0.344307 -0.28936,0.03741 0.67551,-0.675513 -0.48358,0.38127 0.22825,-0.254714 z"
        id="path890" />
     <rect
-       style="fill:#67ffff;fill-opacity:0.55780709;stroke-width:0.167094"
+       style="fill:#67ffff;fill-opacity:0.557807;stroke-width:0.167094"
        id="rect892"
        width="22.66127"
        height="12.124068"
@@ -210,7 +294,7 @@
        y="52.066257" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.75462401;stroke:none;stroke-width:0.264583;"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
        x="148.42769"
        y="59.789703"
        id="text896"><tspan
@@ -218,7 +302,7 @@
          id="tspan894"
          x="148.42769"
          y="59.789703"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.75462401;stroke-width:0.264583;">button</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">button</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.425634"
        id="rect898"
@@ -261,7 +345,7 @@
          y="59.789703"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">read more</tspan></text>
     <rect
-       style="fill:#00ff00;fill-opacity:0.32612592;stroke-width:0.307009"
+       style="fill:#00ff00;fill-opacity:0.326126;stroke-width:0.307009"
        id="rect912"
        width="192.12698"
        height="36.198212"
@@ -341,7 +425,7 @@
        d="M 70.413625,78.456723 H 180.10536 l -0.39614,-0.04209 -0.34075,0.316276 -0.61402,0.03436 1.43343,-0.620519 -1.02615,0.350231 0.48434,-0.233978 z"
        id="path946" />
     <rect
-       style="fill:#f4bf00;fill-opacity:0.32612592;stroke-width:0.307009"
+       style="fill:#f4bf00;fill-opacity:0.326126;stroke-width:0.307009"
        id="rect948"
        width="192.12698"
        height="36.198212"
@@ -413,7 +497,7 @@
          y="124.34808"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">feature 1</tspan></text>
     <rect
-       style="fill:#f4ff00;fill-opacity:0.7620194;stroke-width:0.307009"
+       style="fill:#f4ff00;fill-opacity:0.762019;stroke-width:0.307009"
        id="rect972"
        width="192.12698"
        height="36.198212"
@@ -421,7 +505,7 @@
        y="149.0271" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff9833;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff9833;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="77.519608"
        y="155.8358"
        id="text976"><tspan
@@ -429,7 +513,7 @@
          id="tspan974"
          x="77.519608"
          y="155.8358"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#ff9833;fill-opacity:1;stroke-width:0.264583;">cloud host</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#ff9833;fill-opacity:1;stroke-width:0.264583">cloud host</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.502509"
        id="rect978"
@@ -485,7 +569,7 @@
          y="178.85156"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">read more</tspan></text>
     <rect
-       style="fill:#dfa1e4;fill-opacity:0.7620194;stroke-width:0.307009"
+       style="fill:#dfa1e4;fill-opacity:0.762019;stroke-width:0.307009"
        id="rect996"
        width="192.12698"
        height="36.198212"
