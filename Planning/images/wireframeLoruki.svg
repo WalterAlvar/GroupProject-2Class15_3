@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (394de47547, 2021-03-26)"
+   sodipodi:docname="wireframeLoruki.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="320.59835"
+     inkscape:cy="926.82269"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.201683"
+       id="rect10"
+       width="192.3676"
+       height="15.601992"
+       x="3.8144934"
+       y="3.5064938" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.264583"
+       id="rect835"
+       width="66.068924"
+       height="10.426476"
+       x="10.164492"
+       y="5.6231604" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.149347"
+       id="rect837"
+       width="29.998291"
+       height="7.3165693"
+       x="92.235725"
+       y="5.5463376" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.149347"
+       id="rect841"
+       width="29.998291"
+       height="7.3165693"
+       x="126.63153"
+       y="5.5463376" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.149347"
+       id="rect843"
+       width="29.998291"
+       height="7.3165693"
+       x="160.49777"
+       y="5.5463376" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.54195374;stroke:none;stroke-width:0.264583;"
+       x="77.519608"
+       y="19.043833"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="77.519608"
+         y="19.043833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#000000;stroke-width:0.264583;fill-opacity:0.54195374;">navbar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="93.394623"
+       y="11.635501"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="93.394623"
+         y="11.635501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#008080;stroke-width:0.264583">home</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="127.79047"
+       y="11.635501"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="127.79047"
+         y="11.635501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#008080;stroke-width:0.264583">features</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="162.18584"
+       y="11.635501"
+       id="text859"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="162.18584"
+         y="11.635501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#008080;stroke-width:0.264583">docs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.1666px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529166"
+       x="11.28169"
+       y="15.75559"
+       id="text863"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         x="11.28169"
+         y="15.75559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#008080;stroke-width:0.529166">logo</tspan></text>
+    <rect
+       style="fill:#160000;fill-opacity:0.222912;stroke-width:0.307009"
+       id="rect865"
+       width="192.12698"
+       height="36.198212"
+       x="3.8144934"
+       y="22.027325" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="77.519608"
+       y="26.98134"
+       id="text869"><tspan
+         sodipodi:role="line"
+         id="tspan867"
+         x="77.519608"
+         y="26.98134"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#800080;fill-opacity:0.519413;stroke-width:0.264583">showcase</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.38663059;stroke-width:0.501283"
+       id="rect871"
+       width="67.98381"
+       height="36.372204"
+       x="122.51225"
+       y="25.125507" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#800080;fill-opacity:0.75462359;stroke:none;stroke-width:0.264583;"
+       x="143.13609"
+       y="31.743843"
+       id="text875"><tspan
+         sodipodi:role="line"
+         id="tspan873"
+         x="143.13609"
+         y="31.743843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#800080;stroke-width:0.264583;fill-opacity:0.75462359;">submit form</tspan></text>
+    <circle
+       id="path877"
+       style="fill:#800080;stroke:#000000;stroke-width:0.264583"
+       cx="129.74464"
+       cy="37.397602"
+       r="0.035322174" />
+    <circle
+       id="path879"
+       style="fill:#800080;stroke:#000000;stroke-width:0.264583"
+       cx="185.40912"
+       cy="35.494545"
+       r="0.035322174" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.32681,37.17871 h 51.69278 l -0.18668,-0.04582 -0.16058,0.344307 -0.28936,0.03741 0.67551,-0.675513 -0.48358,0.38127 0.22825,-0.254714 z"
+       id="path886" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.32681,43.528714 h 51.69278 l -0.18668,-0.04582 -0.16058,0.344307 -0.28936,0.03741 0.67551,-0.675513 -0.48358,0.38127 0.22825,-0.254714 z"
+       id="path888" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.32681,49.349551 h 51.69278 l -0.18668,-0.04582 -0.16058,0.344307 -0.28936,0.03741 0.67551,-0.675513 -0.48358,0.38127 0.22825,-0.254714 z"
+       id="path890" />
+    <rect
+       style="fill:#67ffff;fill-opacity:0.55780709;stroke-width:0.167094"
+       id="rect892"
+       width="22.66127"
+       height="12.124068"
+       x="145.17352"
+       y="52.066257" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.75462401;stroke:none;stroke-width:0.264583;"
+       x="148.42769"
+       y="59.789703"
+       id="text896"><tspan
+         sodipodi:role="line"
+         id="tspan894"
+         x="148.42769"
+         y="59.789703"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.75462401;stroke-width:0.264583;">button</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.425634"
+       id="rect898"
+       width="105.49779"
+       height="16.898167"
+       x="10.328891"
+       y="36.486202" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="12.961264"
+       y="42.856354"
+       id="text902"><tspan
+         sodipodi:role="line"
+         id="tspan900"
+         x="12.961264"
+         y="42.856354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">H1 main description</tspan><tspan
+         sodipodi:role="line"
+         x="12.961264"
+         y="56.08548"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583"
+         id="tspan904" /></text>
+    <rect
+       style="fill:#67ffff;fill-opacity:0.557807;stroke-width:0.167094"
+       id="rect906"
+       width="22.66127"
+       height="12.124068"
+       x="10.76536"
+       y="52.066257" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="10.315433"
+       y="59.789703"
+       id="text910"><tspan
+         sodipodi:role="line"
+         id="tspan908"
+         x="10.315433"
+         y="59.789703"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">read more</tspan></text>
+    <rect
+       style="fill:#00ff00;fill-opacity:0.32612592;stroke-width:0.307009"
+       id="rect912"
+       width="192.12698"
+       height="36.198212"
+       x="3.8144934"
+       y="65.419029" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="77.519608"
+       y="70.902214"
+       id="text916"><tspan
+         sodipodi:role="line"
+         id="tspan914"
+         x="77.519608"
+         y="70.902214"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#008000;fill-opacity:0.519413;stroke-width:0.264583">stats</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.304195"
+       id="rect918"
+       width="53.885838"
+       height="16.898167"
+       x="10.328891"
+       y="82.523743" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.304195"
+       id="rect920"
+       width="53.885838"
+       height="16.898167"
+       x="69.066437"
+       y="82.523743" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.304195"
+       id="rect922"
+       width="53.885838"
+       height="16.898167"
+       x="127.80397"
+       y="82.523743" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="16.665428"
+       y="96.302238"
+       id="text934"><tspan
+         sodipodi:role="line"
+         id="tspan932"
+         x="16.665428"
+         y="96.302238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">deployements No.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="75.932152"
+       y="96.302238"
+       id="text938"><tspan
+         sodipodi:role="line"
+         id="tspan936"
+         x="75.932152"
+         y="96.302238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">published storage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="135.19873"
+       y="96.302238"
+       id="text942"><tspan
+         sodipodi:role="line"
+         id="tspan940"
+         x="135.19873"
+         y="96.302238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">projects quantity</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.369399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 70.413625,73.69422 H 180.10536 l -0.39614,-0.04209 -0.34075,0.316276 -0.61402,0.03436 1.43343,-0.620519 -1.02615,0.350231 0.48434,-0.233978 z"
+       id="path944" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.369399px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 70.413625,78.456723 H 180.10536 l -0.39614,-0.04209 -0.34075,0.316276 -0.61402,0.03436 1.43343,-0.620519 -1.02615,0.350231 0.48434,-0.233978 z"
+       id="path946" />
+    <rect
+       style="fill:#f4bf00;fill-opacity:0.32612592;stroke-width:0.307009"
+       id="rect948"
+       width="192.12698"
+       height="36.198212"
+       x="3.8144934"
+       y="107.22321" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="77.519608"
+       y="113.50286"
+       id="text952"><tspan
+         sodipodi:role="line"
+         id="tspan950"
+         x="77.519608"
+         y="113.50286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#b08000;fill-opacity:0.519413;stroke-width:0.264583">CLI integration</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.502509"
+       id="rect954"
+       width="93.701263"
+       height="26.518793"
+       x="6.0955591"
+       y="114.80293" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="8.7279339"
+       y="138.63544"
+       id="text958"><tspan
+         sodipodi:role="line"
+         id="tspan956"
+         x="8.7279339"
+         y="138.63544"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">cli coding .img</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.282"
+       id="rect960"
+       width="67.252937"
+       height="11.635824"
+       x="114.56979"
+       y="115.50344" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.282"
+       id="rect962"
+       width="67.252937"
+       height="11.635824"
+       x="114.56979"
+       y="129.26173" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="138.37369"
+       y="138.63544"
+       id="text966"><tspan
+         sodipodi:role="line"
+         id="tspan964"
+         x="138.37369"
+         y="138.63544"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">feature 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="138.37369"
+       y="124.34808"
+       id="text970"><tspan
+         sodipodi:role="line"
+         id="tspan968"
+         x="138.37369"
+         y="124.34808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">feature 1</tspan></text>
+    <rect
+       style="fill:#f4ff00;fill-opacity:0.7620194;stroke-width:0.307009"
+       id="rect972"
+       width="192.12698"
+       height="36.198212"
+       x="3.8144934"
+       y="149.0271" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ff9833;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="77.519608"
+       y="155.8358"
+       id="text976"><tspan
+         sodipodi:role="line"
+         id="tspan974"
+         x="77.519608"
+         y="155.8358"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#ff9833;fill-opacity:1;stroke-width:0.264583;">cloud host</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.502509"
+       id="rect978"
+       width="93.701263"
+       height="26.518793"
+       x="101.34563"
+       y="157.13588" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="127.26133"
+       y="180.9682"
+       id="text982"><tspan
+         sodipodi:role="line"
+         id="tspan980"
+         x="127.26133"
+         y="180.9682"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">cloud hosting .img</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.384756"
+       id="rect984"
+       width="82.730507"
+       height="17.608265"
+       x="11.051764"
+       y="157.35786" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="14.019596"
+       y="164.0351"
+       id="text988"><tspan
+         sodipodi:role="line"
+         id="tspan986"
+         x="14.019596"
+         y="164.0351"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">H2 description</tspan></text>
+    <rect
+       style="fill:#67ffff;fill-opacity:0.557807;stroke-width:0.167094"
+       id="rect990"
+       width="22.66127"
+       height="12.124068"
+       x="39.869545"
+       y="170.59906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="39.419617"
+       y="178.85156"
+       id="text994"><tspan
+         sodipodi:role="line"
+         id="tspan992"
+         x="39.419617"
+         y="178.85156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">read more</tspan></text>
+    <rect
+       style="fill:#dfa1e4;fill-opacity:0.7620194;stroke-width:0.307009"
+       id="rect996"
+       width="192.12698"
+       height="36.198212"
+       x="3.8144934"
+       y="190.8307" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#800080;fill-opacity:0.53705;stroke:none;stroke-width:0.264583"
+       x="77.519608"
+       y="198.16856"
+       id="text1000"><tspan
+         sodipodi:role="line"
+         id="tspan998"
+         x="77.519608"
+         y="198.16856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#800080;fill-opacity:0.53705;stroke-width:0.264583">supported languages</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.284866"
+       id="rect1002"
+       width="31.260796"
+       height="25.544256"
+       x="162.72778"
+       y="199.38486" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="173.82738"
+       y="207.95534"
+       id="text1006"><tspan
+         sodipodi:role="line"
+         id="tspan1004"
+         x="173.82738"
+         y="207.95534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">logo</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.284866"
+       id="rect1008"
+       width="31.260796"
+       height="25.544256"
+       x="125.15741"
+       y="199.38486" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="136.25705"
+       y="207.95534"
+       id="text1012"><tspan
+         sodipodi:role="line"
+         id="tspan1010"
+         x="136.25705"
+         y="207.95534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">logo</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.284866"
+       id="rect1014"
+       width="31.260796"
+       height="25.544256"
+       x="87.586571"
+       y="199.38486" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="98.68634"
+       y="207.95534"
+       id="text1018"><tspan
+         sodipodi:role="line"
+         id="tspan1016"
+         x="98.68634"
+         y="207.95534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">logo</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.284866"
+       id="rect1020"
+       width="31.260796"
+       height="25.544256"
+       x="49.486534"
+       y="199.38486" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="60.586304"
+       y="207.95534"
+       id="text1024"><tspan
+         sodipodi:role="line"
+         id="tspan1022"
+         x="60.586304"
+         y="207.95534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">logo</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.386631;stroke-width:0.284866"
+       id="rect1026"
+       width="31.260796"
+       height="25.544256"
+       x="10.328174"
+       y="199.38486" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="21.427933"
+       y="207.95534"
+       id="text1030"><tspan
+         sodipodi:role="line"
+         id="tspan1028"
+         x="21.427933"
+         y="207.95534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#7b7eec;fill-opacity:0.754624;stroke-width:0.264583">logo</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.295615"
+       id="rect1032"
+       width="192.3676"
+       height="33.519245"
+       x="3.8144934"
+       y="230.51767" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.197045"
+       id="rect1034"
+       width="29.998291"
+       height="12.73633"
+       x="76.845367"
+       y="242.67021" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.541954;stroke:none;stroke-width:0.264583"
+       x="77.519608"
+       y="235.47163"
+       id="text1038"><tspan
+         sodipodi:role="line"
+         id="tspan1036"
+         x="77.519608"
+         y="235.47163"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#000000;fill-opacity:0.541954;stroke-width:0.264583">footer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.213854"
+       y="250.54039"
+       id="text1042"><tspan
+         sodipodi:role="line"
+         id="tspan1040"
+         x="18.213854"
+         y="250.54039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#008080;stroke-width:0.264583">LOGO</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.250661"
+       id="rect1044"
+       width="36.011448"
+       height="17.168903"
+       x="8.704895"
+       y="240.75467" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.222912;stroke-width:0.296642"
+       id="rect1046"
+       width="67.98764"
+       height="12.73633"
+       x="123.94122"
+       y="242.67021" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="78.577988"
+       y="250.81726"
+       id="text1050"><tspan
+         sodipodi:role="line"
+         id="tspan1048"
+         x="78.577988"
+         y="250.81726"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#b639ec;fill-opacity:0.754624;stroke-width:0.264583">navbar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#7b7eec;fill-opacity:0.754624;stroke:none;stroke-width:0.264583"
+       x="125.67383"
+       y="250.81726"
+       id="text1054"><tspan
+         sodipodi:role="line"
+         id="tspan1052"
+         x="125.67383"
+         y="250.81726"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#8339ec;fill-opacity:0.850186;stroke-width:0.264583">social media</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="3.7222197"
+       y="292.73196"
+       id="text1058"><tspan
+         sodipodi:role="line"
+         id="tspan1056"
+         x="3.7222197"
+         y="292.73196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#008080;stroke-width:0.264583"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:'Oswald Semi-Bold'"
+   id="tspan1060">HACK YOUR FUTURE</tspan> / Group Project / Class 15_3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="149.42526"
+       y="315.44547"
+       id="text1064"><tspan
+         sodipodi:role="line"
+         id="tspan1062"
+         x="149.42526"
+         y="315.44547"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="3.7222197"
+       y="283.20682"
+       id="text1070"><tspan
+         sodipodi:role="line"
+         id="tspan1068"
+         x="3.7222197"
+         y="283.20682"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Oswald;-inkscape-font-specification:Oswald;fill:#008080;stroke-width:0.264583">wireframe / loruki website</tspan></text>
+  </g>
+</svg>
