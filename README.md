@@ -24,7 +24,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - **Slack Messaging**:
 - **Google Meet**: 4H
-- **Issues**:
-- **Pull Requests**:
+- **Issues**: 7h
+- **Pull Requests**: 5h
 
 ## Availability
