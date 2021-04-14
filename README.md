@@ -12,7 +12,7 @@ Incremental Development project
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+| Mo    | 09:00 - 10:30    |           Group Project              |
 
 ## Communication Channels
 
