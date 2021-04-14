@@ -6,6 +6,10 @@ Incremental Development project
 
 ## Group Rules
 
+- Responsibility
+- teamwork
+- Creativity
+- Mutual respect
 ---
 
 ## Communication Schedule
@@ -19,7 +23,7 @@ Incremental Development project
 how often will we get in touch on each channel, and what we will discuss there:
 
 - **Slack Messaging**:
-- **Slack Video Calls**:
+- **Google Meet**: 4H
 - **Issues**:
 - **Pull Requests**:
 
