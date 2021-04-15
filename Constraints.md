@@ -3,10 +3,10 @@
 Some boundaries around our project.
 
 ## External
-- Poor internet connection
--cproject deadlines
-- UI design or color schemes
 
+
+- tight deadline
+- little experience with git & github
 <!--
   constraints coming from the outside that your team has no control over. these may include:
   - project deadlines
@@ -14,24 +14,20 @@ Some boundaries around our project.
   - technologies (sometimes a client will tell you what to use)
 -->
 
-
 ## Internal: Involuntary
 
-- Different team member hour
-- Little experience in  git & github
-
+- mixed availability
+- mixed skill levels
 <!--
   constraints that come from within your team, and you have no control over. they may include:
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
 
-
 ## Internal: Voluntary
 
-- Focus on the team
-- Focused on distributing parts
-- Team Help
+- simplify the website
+- focus on teamwork
 <!--
   constraints that your team decided on to help scope the project. they may include:
   - coding style & conventions
