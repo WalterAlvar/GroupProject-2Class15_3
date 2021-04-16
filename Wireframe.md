@@ -1,16 +1,16 @@
 # Wireframe
 
-Our wireframe! We decided to have a simple page.
+Our wireframe! We decided to mantain the original page.
+
 The decisions we made according to the backlog discussion, we'll build a webpage
-for software provider company.
+for Cloud Hosting for web apps company.
 
 ### Customers can do;
 * Ask for different tech solutions
-* Subscribe to the newsletter updates
+* Host their web apps in our cloud
 * Contact and follow the company's social media accounts
 
 ---
 
-![wireframe](https://raw.githubusercontent.com/danielhalasz/TeamFour/main/planning/Week1-wireframe.png)
+![wireframe](Planning/images/wireframeLoruki.svg)
 
-> [wireframe source](https://excalidraw.com/#json=4648515573645312,qW79XQ6mL7VXAF7qp0jJLQ)
